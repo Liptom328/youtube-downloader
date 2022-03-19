@@ -11,4 +11,4 @@ Made with ❤ by [Liptom328](https://github.com/Liptom328)
 5. Select location you want to download the file.
 6. Done!
 
-- https://imgur.com/a/y5ehFiR
+- [Image](https://imgur.com/a/y5ehFiR)
