@@ -1,6 +1,6 @@
 # YouTube Downloader
 
-[![Hits](https://hits.deltapapa.io/github/Liptom328/youtube-downloader.svg)](https://hits.deltapapa.io)
+[![Hits](https://hits.deltapapa.io/github/Liptom328/youtube-downloader.svg)](https://hits.deltapapa.io) <br>
 Made with ❤ by [Liptom328](https://github.com/Liptom328)
 
 # How to use?
